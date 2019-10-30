@@ -1,5 +1,5 @@
 # BotsTalk
-This is a program that makes 2 bots talk to each other.
+
 This a simple yet interesting program that makes two online AI chatbots(from cleverbot.com) talk to each other. 
 The program just takes data from one bot and feeds to another and vice versa automatically. It starts with feeding an initial message 
 "Hello bot" to the first bot.
